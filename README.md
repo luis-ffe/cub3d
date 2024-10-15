@@ -66,7 +66,7 @@ C 225,30,0
 
 1. Clone repository
     ```bash
-    git clone git@github.com:mjorgecruz/42_cub3d.git
+    git clone git@github.com:luis-ffe/cub3d.git
     ```
 
 2. Go inside project directory and run `make`
