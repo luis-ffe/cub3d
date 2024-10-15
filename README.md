@@ -5,7 +5,7 @@
 This project is a homage to the classic Wolfenstein 3D, the first FPS game ever created. It serves as an introduction to the concepts of ray-casting, allowing you to create a dynamic view inside a maze.
 Inspired by the groundbreaking game Wolfenstein 3D, this project aims to replicate the core mechanics using ray-casting techniques. The objective is to create a "realistic" 3D graphical representation of the inside of a maze from a first-person perspective using the MiniLibX library.
 
-<img src="https://github.com/mjorgecruz/42_cub3d/blob/main/Screenshot%20from%202024-09-24%2011-39-06.png"/>
+<img src="https://github.com/luis-ffe/cub3d/blob/main/Screenshot%20from%202024-09-24%2011-39-06.png"/>
 
 ## Features
 
